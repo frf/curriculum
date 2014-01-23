@@ -6,8 +6,6 @@ Vaga
 CV
 ==
 
-[Conhecimentos]
-
 ###Resumo
 
 Ja trabalhei com infraestrutura em servidores e rede de computadores na Caixa Econômica Federal e logo após esta jornada conheci o que realmente sou apaixonado o DESENVOLVIMENTO.
@@ -69,7 +67,7 @@ Empresa de capital aberto; + de 10.001 funcionários; Setor de Bancos
 janeiro de 2000 – novembro de 2005 (5 anos 11 meses) Rio de Janeiro Area, Brazil
 
 
-###Projetos de Fabio Farias
+###Projetos de Fabio Rocha de Farias
 
 1. Sistema de Gerar Relatórios para Gestão Hospitalar
         janeiro de 2012 até até o momento
@@ -87,4 +85,24 @@ janeiro de 2000 – novembro de 2005 (5 anos 11 meses) Rio de Janeiro Area, Braz
         janeiro de 2000 até até o momento
     Membros da equipe: Fabio Rocha
 
+###Competências e especialidades de Fabio Rocha
 
+PostgreSQL, MySQL,    PHP,    Zend Framework, jQuery,    HTML,    RUP,    HTML + CSS,  SQL,    Firewalls,    Github,    Linux Firewalls,    PHP4/5,    jQuery UI,    NetBeans,    Python,    Unix Shell Scripting,    Propel,    C++    Apache 2,    HTML5,    Advanced CSS,    SQLite,     Curl,    JavaScript,    Java software development,    Android,    Oracle,    PL/SQL,    PHPUnit,    Xdebug,    YAML,    PEAR,    Grep,    Dhcpd,    OpenSSH,    Proftpd,    ClamAV,    Webalizer,    Linux architecture,    Debian,    Ubuntu,    Ruby on Rails,    Tortoise SVN,   Cloud
+
+###Formação acadêmica de Fabio Rocha 
+
+Universidade Estácio de Sá / Universidade Estacio de Sá
+
+**Pós Graduação - Análise, Projeto e Gerência de Sistemas, Praça XI**
+
+2012 – 2013
+
+Pós Graduação - Análise, Projeto e Gerência de Sistemas
+
+Especializar o aluno em Análise, Projeto e Gerencia de Sistemas, fornecendo embasamento teórico sólido, com ênfase no conhecimento técnico e apresentando as principais metodologias, linguagens de programação em uso, bem como as tecnologias emergentes no cenário global.
+
+Universidade Estácio de Sá / Universidade Estacio de Sá
+
+**Sistemas Para Internet (Graduação Tecnológica), Nova América**
+
+2005 – 2009 
