@@ -1,0 +1,90 @@
+Vaga
+====
+
+[Analista de Sistemas, Desenvolvimento de Software Web]
+
+CV
+==
+
+[Conhecimentos]
+
+###Resumo
+
+Ja trabalhei com infraestrutura em servidores e rede de computadores na Caixa Econômica Federal e logo após esta jornada conheci o que realmente sou apaixonado o DESENVOLVIMENTO.
+
+Hoje me considero um bom Analista,Desenvolvedor escovador de bits.
+
+Conhecimento em virtualização vmware, virtualbox.
+
+Ja trabalho como Analista de Sistemas a 10 anos.
+
+Hoje me considero um especialista em PHP, Zend 1 e bom conhecedor de Zend 2.
+
+Aprendi a maioria das coisas por conta própria lendo muito, minhas horas de lazer sempre tem um smartphone ou ou notebok isso, não consigo largar deles rs...
+
+Trabalhando atualmente com Zend Framework e propel orm.
+
+Conhecimentos avançados em:
+
+Linux (Dist. Fedora, Debian, Ubuntu) Instalação de pacotes, configuração de Apache,DNS,Banco de Dados,Aplicações Web etc...
+
+Scripts Shell e demais funcionalidades avançadas de linux.
+
+Banco de dados: Oracle,PostgreSQL, Mysql, Sqlite
+
+Linguagem de Banco de Dados: PLSQL
+
+ORM: Propel,Doctrine
+
+Rede Windows e Linux
+
+Servidor Web,Servidor de Arquivos,Servidor de DNS, Serviodor de Firewall.
+
+Gerenciamento de Projeto.
+
+Html, Html 5, Jquery
+
+Seja encontrado por causa do seu trabalho. Adicione vídeos, imagens, documentos, etc.
+
+###Experiência
+
+
+Anaslista de Sistemas Sênior
+Datasus
+
+Empresa de capital aberto; 201-500 funcionários; Setor de Administração governamental
+
+abril de 2008 – Presente (5 anos 10 meses) Rio de Janeiro Area, Brazil
+Desenvolveldor de Sistemas
+InfoLink Teleinformática
+
+Empresa privada; 11-50 funcionários; Setor de Tecnologia da informação e serviços
+
+2006 – 2008 (2 anos) Rio de Janeiro Area, Brazil
+Analista de Redes
+Caixa Economica Federal
+
+Empresa de capital aberto; + de 10.001 funcionários; Setor de Bancos
+
+janeiro de 2000 – novembro de 2005 (5 anos 11 meses) Rio de Janeiro Area, Brazil
+
+
+###Projetos de Fabio Farias
+
+1. Sistema de Gerar Relatórios para Gestão Hospitalar
+        janeiro de 2012 até até o momento
+    Membros da equipe: Fabio Rocha, Marcelo Pereira
+
+1. Sistema de Gestão Hospitalar
+        novembro de 2009 até até o momento
+    Membros da equipe: Fabio Rocha, Marcelo Pereira
+
+1. Sistema - Nutrate Nutrição e Clínica Médica
+        janeiro de 2012 até até o momento
+    Membros da equipe: Fabio Rocha
+
+1. Implantação Agencia CEF - Rede e Servidores
+        janeiro de 2000 até até o momento
+    Membros da equipe: Fabio Rocha
+
+
